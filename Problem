@@ -1,0 +1,6 @@
+ALGORITHM FOR FINDING EVEN AND ODD NUMBER.
+Ask the user to input a number.
+Divide the number by 2.
+Check if the remainder is 0 or not.
+If 0 then display "Even Number".
+Otherwise print "Odd nummber".
